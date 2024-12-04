@@ -38,7 +38,9 @@
    
     margin-top: 10px;
 }
-
+#dashin{
+    width: 60%;
+}
     
 }
 
@@ -57,6 +59,8 @@
     .w-100 {
    
     margin-top: 10px;
+}#dashin{
+    width: 70%;
 }
    
 }
