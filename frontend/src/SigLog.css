@@ -36,7 +36,7 @@ body {
 /* Main Container */
 .main-container {
   width: 100%;
-  max-width: 400px;
+  max-width: 370px;
   backdrop-filter: blur(10px);
   background: rgba(255, 255, 255, 0.15);
   border-radius: 15px;
